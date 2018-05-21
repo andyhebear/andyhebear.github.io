@@ -5,12 +5,12 @@
   <subtitle>一个开发者的技术记录地</subtitle>
   <link href="/atom.xml" rel="self"/>
   
-  <link href="http://yoursite.com/"/>
+  <link href="http://andyhebear.github.io/"/>
   <updated>2018-05-18T08:11:50.405Z</updated>
-  <id>http://yoursite.com/</id>
+  <id>http://andyhebear.github.io/</id>
   
   <author>
-    <name>John Doe</name>
+    <name>模板猴</name>
     
   </author>
   
@@ -18,8 +18,8 @@
   
   <entry>
     <title>测试文章</title>
-    <link href="http://yoursite.com/2018/05/18/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
-    <id>http://yoursite.com/2018/05/18/测试文章/</id>
+    <link href="http://andyhebear.github.io/2018/05/18/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
+    <id>http://andyhebear.github.io/2018/05/18/测试文章/</id>
     <published>2018-05-18T08:11:50.000Z</published>
     <updated>2018-05-18T08:11:50.405Z</updated>
     
@@ -32,8 +32,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="http://yoursite.com/2018/05/16/hello-world/"/>
-    <id>http://yoursite.com/2018/05/16/hello-world/</id>
+    <link href="http://andyhebear.github.io/2018/05/16/hello-world/"/>
+    <id>http://andyhebear.github.io/2018/05/16/hello-world/</id>
     <published>2018-05-16T04:41:14.380Z</published>
     <updated>2018-05-16T04:41:14.380Z</updated>
     
