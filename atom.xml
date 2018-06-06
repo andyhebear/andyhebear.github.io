@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="http://andyhebear.github.io/"/>
-  <updated>2018-06-06T06:52:53.295Z</updated>
+  <updated>2018-06-06T07:03:00.039Z</updated>
   <id>http://andyhebear.github.io/</id>
   
   <author>
@@ -21,15 +21,15 @@
     <link href="http://andyhebear.github.io/2018/06/06/%E5%A4%A7%E5%89%8D%E7%AB%AFdux-5-0-zip%E5%8E%9F%E7%89%88%E4%B8%8B%E8%BD%BD%E5%9C%B0%E5%9D%80/"/>
     <id>http://andyhebear.github.io/2018/06/06/大前端dux-5-0-zip原版下载地址/</id>
     <published>2018-06-06T06:40:37.000Z</published>
-    <updated>2018-06-06T06:52:53.295Z</updated>
+    <updated>2018-06-06T07:03:00.039Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="下载地址免费分享"><a href="#下载地址免费分享" class="headerlink" title="下载地址免费分享"></a>下载地址免费分享</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>下载地址：<a href="https://u14538544.pipipan.com/fs/14538544-293181603" target="_blank" rel="noopener">https://u14538544.pipipan.com/fs/14538544-293181603</a> </p>]]></content>
+    <content type="html"><![CDATA[<h2 id="下载地址免费分享"><a href="#下载地址免费分享" class="headerlink" title="下载地址免费分享"></a>下载地址免费分享</h2><h3 id="资源来于网络，如有问题，请自行解决"><a href="#资源来于网络，如有问题，请自行解决" class="headerlink" title="资源来于网络，如有问题，请自行解决"></a>资源来于网络，如有问题，请自行解决</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br><span class="line">4</span><br><span class="line">5</span><br><span class="line">6</span><br><span class="line">7</span><br></pre></td><td class="code"><pre><span class="line">      DUX主题5.0版本更新内容：</span><br><span class="line">•支持百度熊掌号，在主题设置-百度熊掌号中开启</span><br><span class="line">•支持百度熊掌号 – 粉丝关注按钮，包括吸顶bar、文章段落间bar、底部bar</span><br><span class="line">•支持百度熊掌号 – 添加JSON_LD数据的功能</span><br><span class="line">•支持百度熊掌号 – 新增文章实时推送</span><br><span class="line">•支持百度熊掌号 – 新增原创保护文章实时推送（编辑文章时有熊掌号相关设置）</span><br><span class="line">•修复其他细节问题</span><br></pre></td></tr></table></figure><p>大前端dux.5.0.zip原版[下载地址]：( <a href="https://u14538544.pipipan.com/fs/14538544-293181603" target="_blank" rel="noopener">https://u14538544.pipipan.com/fs/14538544-293181603</a> )</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;下载地址免费分享&quot;&gt;&lt;a href=&quot;#下载地址免费分享&quot; class=&quot;headerlink&quot; title=&quot;下载地址免费分享&quot;&gt;&lt;/a&gt;下载地址免费分享&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#Create-a-new
+        &lt;h2 id=&quot;下载地址免费分享&quot;&gt;&lt;a href=&quot;#下载地址免费分享&quot; class=&quot;headerlink&quot; title=&quot;下载地址免费分享&quot;&gt;&lt;/a&gt;下载地址免费分享&lt;/h2&gt;&lt;h3 id=&quot;资源来于网络，如有问题，请自行解决&quot;&gt;&lt;a href=&quot;#资源来于网络，如有问题，
       
     
     </summary>
@@ -42,15 +42,15 @@
     <link href="http://andyhebear.github.io/2018/05/18/%E6%B5%8B%E8%AF%95%E6%96%87%E7%AB%A0/"/>
     <id>http://andyhebear.github.io/2018/05/18/测试文章/</id>
     <published>2018-05-18T08:11:50.000Z</published>
-    <updated>2018-06-06T06:52:57.017Z</updated>
+    <updated>2018-06-06T06:59:50.851Z</updated>
     
-    <content type="html"><![CDATA[<h2 id="Quick-Start"><a href="#Quick-Start" class="headerlink" title="Quick Start"></a>Quick Start</h2><h3 id="Create-a-new-post"><a href="#Create-a-new-post" class="headerlink" title="Create a new post"></a>Create a new post</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br></pre></td><td class="code"><pre><span class="line">$ hexo new <span class="string">"My New Post"</span></span><br></pre></td></tr></table></figure><p>这是测试内容</p>]]></content>
+    <content type="html"><![CDATA[<h2 id="一级标题"><a href="#一级标题" class="headerlink" title="[一级标题]"></a>[一级标题]</h2><h3 id="二级标题"><a href="#二级标题" class="headerlink" title="[二级标题]"></a>[二级标题]</h3><figure class="highlight bash"><table><tr><td class="gutter"><pre><span class="line">1</span><br><span class="line">2</span><br><span class="line">3</span><br></pre></td><td class="code"><pre><span class="line">[代码内容] </span><br><span class="line"><span class="keyword">if</span> a&gt;b</span><br><span class="line">         <span class="built_in">print</span>(<span class="string">'a&gt;b'</span>)</span><br></pre></td></tr></table></figure><p>这是测试内容</p>]]></content>
     
     <summary type="html">
     
       
       
-        &lt;h2 id=&quot;Quick-Start&quot;&gt;&lt;a href=&quot;#Quick-Start&quot; class=&quot;headerlink&quot; title=&quot;Quick Start&quot;&gt;&lt;/a&gt;Quick Start&lt;/h2&gt;&lt;h3 id=&quot;Create-a-new-post&quot;&gt;&lt;a href=&quot;#
+        &lt;h2 id=&quot;一级标题&quot;&gt;&lt;a href=&quot;#一级标题&quot; class=&quot;headerlink&quot; title=&quot;[一级标题]&quot;&gt;&lt;/a&gt;[一级标题]&lt;/h2&gt;&lt;h3 id=&quot;二级标题&quot;&gt;&lt;a href=&quot;#二级标题&quot; class=&quot;headerlink&quot; title=&quot;[二级标题
       
     
     </summary>
